@@ -18,6 +18,9 @@ The problems cover a range of topics including basic arithmetic, data structures
 - **week2/**: Intermediate problems (e.g., amir.cpp, bidirecional.cpp, consecutivos.cpp, etc.)
 - **week3/**: Advanced problems (e.g., acoes.cpp, codigo.cpp, hanoi.cpp, etc.)
 - **week4/**: Complex algorithmic challenges (e.g., concert.cpp, fib.cpp, tlights.cpp, etc.)
+- **week5/**: More advanced competitive programming exercises (e.g., asklol.cpp, fusao.cpp, marbles.cpp, robo.cpp, times.cpp, twosum.cpp, worldcup.cpp)
+- **week6/**: Algorithmic puzzles and implementation problems (e.g., capsulas.cpp, maquinas.cpp, ogros.cpp, pao.cpp, replacesum.cpp, shaky.cpp, soma.cpp, subarraysum.cpp, worms.cpp)
+- **week9/**: Additional challenge problems, including graph and tournament-style problems (e.g., buildingroads.cpp, gincana.cpp, mensagem.cpp, tlgd.cpp)
 
 ## Why data structures and learning algorithms is useful and important
 
@@ -71,6 +74,9 @@ Os problemas cobrem uma variedade de tópicos incluindo aritmética básica, est
 - **week2/**: Problemas intermediários (ex.: amir.cpp, bidirecional.cpp, consecutivos.cpp, etc.)
 - **week3/**: Problemas avançados (ex.: acoes.cpp, codigo.cpp, hanoi.cpp, etc.)
 - **week4/**: Desafios algorítmicos complexos (ex.: concert.cpp, fib.cpp, tlights.cpp, etc.)
+- **week5/**: Exercícios competitivos mais avançados (ex.: asklol.cpp, fusao.cpp, marbles.cpp, robo.cpp, times.cpp, twosum.cpp, worldcup.cpp)
+- **week6/**: Puzzles algorítmicos e problemas de implementação (ex.: capsulas.cpp, maquinas.cpp, ogros.cpp, pao.cpp, replacesum.cpp, shaky.cpp, soma.cpp, subarraysum.cpp, worms.cpp)
+- **week9/**: Problemas de desafio adicionais, incluindo grafos e torneios (ex.: buildingroads.cpp, gincana.cpp, mensagem.cpp, tlgd.cpp)
 
 ## Por que estruturas de dados e aprender algoritmos são úteis e importantes
 
