@@ -4,15 +4,18 @@ using namespace std;
 int main(){
     #define int unsigned long long
     int n, k; cin >> n >> k;
-    int pastas = 1, sum = 0;
+    vector<int> v(n);
 
-    while(n--){
-        int a; cin >> a;
-        sum += a;
-        if(sum > k){
-            pastas++;
-            sum = a;
-        }
+    for(int i = 0; i < n; i++) cin >> v[i];
+
+    sort(v.begin(), v.end());
+
+    int pastas = 0, left = 0, right = n-1;
+    
+    while(left <= right){
+        if(v[left] + v[right] <= k) left++;
+        right--;
+        pastas++;
     }
 
     cout << pastas << endl;
